@@ -1,5 +1,6 @@
 SIS-11 (Spatial Impossibility System)
 Author: Sitiryampi
+A formal system exploring limits of definability via multi-dimensional encoding.
 Overview
 SIS-11 (Spatial Impossibility System) is a formal system based on ZFC, designed to study limits of definability via 11-dimensional formula encoding. It introduces a structured way to analyze how syntactic complexity relates to definability.
 Definition
@@ -15,7 +16,7 @@ This hierarchy enables meta-diagonalization and prevents certain numbers from be
 K_KKK (Kafka’s Kitty Scratcher)
 K_KKK is a meta-diagonalizing number defined as exceeding all 11D-definable numbers within the system:
 K_KKK = MaxDef₁₁(SIS_ω) + 1
-It represents a boundary of definability in SIS-11.
+It defines a boundary of definability within SIS-11.
 Example Construction
 Vector:
 (1000, 500, 700, 300, 400, 200, 100, 50, 25, 10, 5)
@@ -28,3 +29,4 @@ Notes
 This work was independently developed. An AI assistant was used only to help organize and clarify the presentation of the text.
 Discussion
 Feedback, corrections, and discussion are welcome.
+Can similar meta-diagonalizing constructions be defined under alternative encoding schemes?
